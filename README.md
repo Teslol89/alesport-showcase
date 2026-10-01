@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" alt="Logotipo de Alesport" width="140">
+  <img src="docs/icono.png" alt="Logotipo de Alesport" width="140">
 </p>
 
 # Alesport
